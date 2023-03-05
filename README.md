@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm John Christopher Enriquez</h1>
-<h3 align="center">A Frontend Developer from Philippines</h3>
+<h3 align="center">A Front-End Developer from Philippines</h3>
 - 📫 How to reach me **john.christopher.enriquez.2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
