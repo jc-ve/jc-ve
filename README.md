@@ -1,7 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jc-enriquez.jc-enriquez" />
 
-<h1 align="center">Hi 👋, I'm John Christopher Enriquez</h1>
+<h1 align="center">
+  <img src="https://read-me-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+John+Christopher+Enriquez!;"
+</h1>
 <h3 align="center">A Front-End Developer from Philippines</h3>
 - 📫 How to reach me **john.christopher.enriquez.2@gmail.com**
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
