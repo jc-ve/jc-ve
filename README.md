@@ -31,13 +31,17 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jc-enriquez/jc-enriquez/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jc-enriquez&show_icons=true&locale=en" alt="jc-enriquez" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jc-enriquez&show_icons=true&locale=en" alt="jc-enriquez" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jc-enriquez&" alt="jc-enriquez" />
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-enriquez&" alt="jc-enriquez" /></p>
 
 
