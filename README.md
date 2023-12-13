@@ -20,7 +20,7 @@
 
 ### ⚒️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,bootstrap,tailwind,react,vue,git,github,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,bootstrap,tailwind,react,vue,nodejs,mongodb,php,git,github,figma,ps&perline=8)](https://skillicons.dev)
 
 #
 
