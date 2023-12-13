@@ -4,6 +4,8 @@
 
 **`Front-End Developer`**
 
+ Greetings! I'm a front-end enthusiast learning the art of crafting user interfaces. Join me in the land of pixels and stylesheets, where I'm on a mission to create delightful user experiences. My GitHub is a modest collection of experiments and attempts to learn more about Front-End Development. Feel free to explore, share thoughts, or even offer friendly advice. Let's learn and grow together on this coding odyssey! 🌱
+
 <p align="left"> 
   <a href="mailto:john.christopher.enriquez.2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,10 +35,6 @@
   <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP icon"/>
   <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git icon"/>
   <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github icon" />
-  <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM icon" />
-  <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop icon"/>
-  <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma icon" />
-  <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="Gimp icon" />  
   <br/>
   
 #
