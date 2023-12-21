@@ -6,18 +6,6 @@
 
  Greetings! I'm a front-end enthusiast learning the art of crafting user interfaces. Join me in the land of pixels and stylesheets, where I'm on a mission to create delightful user experiences. My GitHub is a modest collection of experiments and attempts to learn more about Front-End Development. Feel free to explore, share thoughts, or even offer friendly advice. Let's learn and grow together on this coding odyssey! 🌱
 
-<p align="left"> 
-  <a href="mailto:john.christopher.enriquez.2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jc-enriquez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://jc-enriquez.github.io">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</p>
-
 ### ⚒️ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,bootstrap,tailwind,react,vue,nodejs,mongodb,php,git,github,figma,ps&perline=8)](https://skillicons.dev)
