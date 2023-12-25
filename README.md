@@ -13,13 +13,13 @@
 #
 
 ### 📈 Stats
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=jc-enriquez&show_icons=true&locale=en&theme=gruvbox" alt="jc-enriquez" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-enriquez&theme=gruvbox" alt="jc-enriquez" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=jc-ve&show_icons=true&locale=en&theme=gruvbox" alt="jc-ve" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-ve&theme=gruvbox" alt="jc-ve" />
 
 #
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jc-enriquez&theme=gruvbox&margin-w=10&rank=A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jc-ve&theme=gruvbox&margin-w=10&rank=A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 #
 
