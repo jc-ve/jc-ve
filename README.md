@@ -1,7 +1,4 @@
 
-
-# 👨🏻‍💻 John Christopher Enriquez
-
 **`Front-End Developer`**
 
  Greetings! I'm a front-end enthusiast learning the art of crafting user interfaces. Join me in the land of pixels and stylesheets, where I'm on a mission to create delightful user experiences. My GitHub is a modest collection of experiments and attempts to learn more about Front-End Development. Feel free to explore, share thoughts, or even offer friendly advice. Let's learn and grow together on this coding odyssey! 🌱
