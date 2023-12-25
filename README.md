@@ -19,7 +19,7 @@
 #
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jc-ve&theme=gruvbox&margin-w=10&rank=S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jc-ve&theme=gruvbox&margin-w=10&rank=S,AAA,AA,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 #
 
