@@ -6,7 +6,7 @@
 
 ### ⚒️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,bootstrap,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,bootstrap,tailwind)](https://skillicons.dev)
 
 #
 
